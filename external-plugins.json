@@ -41,6 +41,11 @@
     "description": "Adds Analytics support for Reddit Pixel"
   },
   {
+    "name": "Rewardful",
+    "url": "https://github.com/iloveitaly/analytics-plugin-rewardful",
+    "description": "Adds Analytics support for Rewardful"
+  },
+  {
     "name": "Splitbee",
     "url": "https://www.npmjs.com/package/analytics-plugin-splitbee",
     "description": "Adds Analytics support for Splitbee"
