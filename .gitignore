@@ -3,6 +3,7 @@ node_modules
 .size-snapshot.json
 *.log
 .netlify
+package-lock.json
 
 _misc
 
