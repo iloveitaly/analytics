@@ -111,6 +111,23 @@ Runs all the `analytics` packages tests.
 pnpm run test
 ```
 
+### `docs`
+
+Regenerates auto-generated content in README files, including the plugin lists, API documentation, and table of contents.
+
+**When to run:**
+- After modifying `external-plugins.json` (to update the Community Plugins list)
+- After changing API documentation in source code
+- After updating JSDoc comments
+
+#### Usage
+
+```sh
+npm run docs
+```
+
+**Note:** This command uses `markdown-magic` to process `<!-- AUTO-GENERATED-CONTENT:START -->` markers in README files. If you don't have dependencies installed, run `npm install --legacy-peer-deps` first.
+
 ## Pull Requests
 
 We actively welcome your pull requests!
@@ -122,7 +139,7 @@ Analytics uses the [Forking Workflow](https://www.atlassian.com/git/tutorials/co
 1. Fork the repo.
 2. Create a branch from `master`. If you're addressing a specific issue, prefix your branch name with the issue number.
 2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
+3. If you've changed APIs, update the documentation. If you've modified `external-plugins.json`, run `npm run docs` to regenerate the README files.
 4. Run `pnpm run test` and ensure the test suite passes.
 6. PR's must be rebased before merge (feel free to ask for help).
 7. PR should be reviewed by two maintainers prior to merging.
