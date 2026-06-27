@@ -135,6 +135,7 @@ const analytics = Analytics({
 | `customScriptSrc` <br/>_optional_ - string| Custom URL for google analytics script, if proxying calls |
 | `cookieConfig` <br/>_optional_ - object| Additional cookie properties for configuring the [ga cookie](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id#configuring_cookie_field_settings) |
 | `tasks` <br/>_optional_ - object| [Set custom google analytic tasks](https://developers.google.com/analytics/devguides/collection/analyticsjs/tasks) |
+| `nonce` <br/>_optional_ - string| Content-Security-Policy nonce value |
 
 ## Server-side usage
 

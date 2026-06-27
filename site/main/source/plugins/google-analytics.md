@@ -117,6 +117,7 @@ const analytics = Analytics({
 | `gtagConfig.cookie_update` <br/>_optional_ - object| Additional cookie properties for configuring the [ga cookie](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id#configuring_cookie_field_settings) |
 | `gtagConfig.cookie_flags` <br/>_optional_ - object| Additional cookie properties for configuring the [ga cookie](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id#configuring_cookie_field_settings) |
 | `customScriptSrc` <br/>_optional_ - string| Custom URL for google analytics script, if proxying calls |
+| `nonce` <br/>_optional_ - string| Content-Security-Policy nonce value |
 
 ## Additional examples
 

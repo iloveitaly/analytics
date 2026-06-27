@@ -135,7 +135,7 @@ Below are additional implementation examples.
         var Analytics = _analytics.init({
           app: 'my-app-name',
           plugins: [
-            analyticsFullStory({
+            analyticsFullStory.default({
               org: 'your-org-name'
             })
           ]

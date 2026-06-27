@@ -109,6 +109,7 @@ const analytics = Analytics({
 | `preview` <br/>_optional_ - string| The preview-mode environment |
 | `auth` <br/>_optional_ - string| The preview-mode authentication credentials |
 | `execution` <br/>_optional_ - string| The script execution mode |
+| `nonce` <br/>_optional_ - string| Content-Security-Policy nonce value |
 
 ## Additional examples
 
