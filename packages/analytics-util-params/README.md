@@ -6,7 +6,7 @@ description: Utility library for parsing, removing & replacing URL params
 
 # Param utilities
 
-URI param utilities for [analytics](https://www.npmjs.com/package/analytics) in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`1.68kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+URI param utilities for [analytics](https://www.npmjs.com/package/analytics) in <!-- docs (pkgSize) -->`1.68kb`<!-- /docs -->.
 
 Exposes `getParams`, `removeParams`, `replaceParams` functions.
 

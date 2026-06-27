@@ -6,7 +6,7 @@ description: Utility library for working with URLs
 
 # URL Utilities
 
-A tiny utility library for working with URLs in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`2.53kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny utility library for working with URLs in <!-- docs (pkgSize) -->`2.54kb`<!-- /docs -->.
 
 Exposes `parseUrl`, `getHost`, `getDomain`, `getSubDomain`, `getUrl`, `getSearch`, `getHash`, `getParams`, `removeParams`, & more functions.
 

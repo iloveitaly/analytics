@@ -6,7 +6,7 @@ description: Utility library for cross domain localStorage access.
 
 # Analytics Remote Storage Utils
 
-A tiny utility library for cross domain localStorage access in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`1kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny utility library for cross domain localStorage access in <!-- docs (pkgSize) -->`3.9kb`<!-- /docs -->.
 
 Exposes `RemoteStorage`, `getRemoteItem`, `setRemoteItem`, `getRemoteItemRaw`, `setRemoteItemRaw`, `CrossStorageClient`, & `CrossStorageHub`.
 

@@ -6,7 +6,7 @@ description: Utility library for queuing events
 
 # Queue Utility
 
-A simple tiny queue library in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`354 bytes`<!-- AUTO-GENERATED-CONTENT:END -->.
+A simple tiny queue library in <!-- docs (pkgSize) -->`354 bytes`<!-- /docs -->.
 
 Exposes `smartQueue` function.
 

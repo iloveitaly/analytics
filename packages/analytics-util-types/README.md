@@ -6,7 +6,7 @@ description: Utility library for runtime type checking
 
 # Type Utilities
 
-A tiny tree shakable utility library for runtime type checking in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`2.23kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny tree shakable utility library for runtime type checking in <!-- docs (pkgSize) -->`2.3kb`<!-- /docs -->.
 
 This library will work with [analytics](https://getanalytics.io) or as a standalone package.
 

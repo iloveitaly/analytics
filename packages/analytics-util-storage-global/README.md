@@ -6,7 +6,7 @@ description: Utility library for managing global values
 
 # Global Storage Utility
 
-A tiny window storage util library in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`406 bytes`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny window storage util library in <!-- docs (pkgSize) -->`413 bytes`<!-- /docs -->.
 
 Exposes `globalContext`, `get`, `set`, `remove`, `wrap`, & `hasSupport` functions.
 

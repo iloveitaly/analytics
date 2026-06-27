@@ -6,7 +6,7 @@ description: Utility library for getting visitor source
 
 # Visitor Source Utilities
 
-A tiny utility library for getting visitor source in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`1.16kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny utility library for getting visitor source in <!-- docs (pkgSize) -->`1.17kb`<!-- /docs -->.
 
 Exposes `getReferrer`, `isExternalReferrer`, `getVisitorSource`, & `parseReferrer` functions.
 

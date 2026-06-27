@@ -6,7 +6,7 @@ description: Utility library for firing events on user idle & wake up
 
 # Activity Utilities
 
-User activity listener utility in <!-- AUTO-GENERATED-CONTENT:START (pkgSize:plural) -->`867 bytes`<!-- AUTO-GENERATED-CONTENT:END -->
+User activity listener utility in <!-- docs (pkgSize) plural -->`867 bytes`<!-- /docs -->
 
 Exposes `onDomActivity`, `onIdle`, `onWakeUp`, & `onUserActivity` functions.
 

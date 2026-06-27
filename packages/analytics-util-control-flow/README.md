@@ -6,7 +6,7 @@ description: Utility library for js control flow
 
 # Javascript Control Flow Utils
 
-A tiny utility library for controlling the flow of code execution in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`1.1kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny utility library for controlling the flow of code execution in <!-- docs (pkgSize) -->`1.1kb`<!-- /docs -->.
 
 Exposes `once`, `delay`, `throttle`, `heartBeat`, `waitFor`, `getWildCards`, & `eventEmitter` functions.
 

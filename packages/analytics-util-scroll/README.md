@@ -5,7 +5,7 @@ description: Utility library for dealing with scroll events
 -->
 # Scroll Utilities
 
-A tiny utility library for working with scroll events in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`978 bytes`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny utility library for working with scroll events in <!-- docs (pkgSize) -->`978 bytes`<!-- /docs -->.
 
 [See live demo](https://utils-scroll.netlify.app/).
 

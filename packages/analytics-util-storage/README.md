@@ -6,7 +6,7 @@ description: Utility library for persisting data
 
 # Analytics Storage Utils
 
-A tiny storage utility library with fallback mechanism in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`1020 bytes`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny storage utility library with fallback mechanism in <!-- docs (pkgSize) -->`1020 bytes`<!-- /docs -->.
 
 Exposes `getItem`, `setItem`, `removeItem` functions.
 
