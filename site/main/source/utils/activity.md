@@ -4,7 +4,7 @@ pageTitle: User Activity Utils
 description: Utility library for firing events on user idle & wake up
 ---
 
-User activity listener utility in <!-- AUTO-GENERATED-CONTENT:START (pkgSize:plural) -->`847 bytes`<!-- AUTO-GENERATED-CONTENT:END -->
+User activity listener utility in <!-- docs (pkgSize) plural -->`847 bytes`<!-- /docs -->
 
 [See live demo](https://utils-activity-listener.netlify.app).
 

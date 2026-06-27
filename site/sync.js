@@ -1,6 +1,5 @@
 const path = require('path')
-const { promises, constants } = require('fs')
-const globby = require('markdown-magic').globby
+const { promises, constants, readdirSync, existsSync } = require('fs')
 const fs = promises
 
 const PACKAGE_PATH = path.join(__dirname, '../packages')
@@ -37,8 +36,10 @@ const CUSTOM_MAPPING = {
 const fileExists = (s) => fs.access(s, constants.F_OK).then(() => true).catch(() => false)
 
 async function getFiles() {
-  const topLevelPackages = [`${PACKAGE_PATH}/*/package.json`]
-  const files = await globby(topLevelPackages)
+  const files = readdirSync(PACKAGE_PATH, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => path.join(PACKAGE_PATH, entry.name, 'package.json'))
+    .filter((pkgPath) => existsSync(pkgPath))
   const collectInfo = files.map(async (file) => {
     const pkg = require(file)
     const slug = pkg.name.replace(/^@analytics\//, '')

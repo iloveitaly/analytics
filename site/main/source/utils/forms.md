@@ -4,7 +4,7 @@ pageTitle: Form Utils
 description: Utility library for managing HTML form values
 ---
 
-A tiny form utility library for dealing with HTML form data in <!-- AUTO-GENERATED-CONTENT:START (pkgSize) -->`2.41kb`<!-- AUTO-GENERATED-CONTENT:END -->.
+A tiny form utility library for dealing with HTML form data in <!-- docs (pkgSize) -->`2.41kb`<!-- /docs -->.
 
 Exposes `onSubmit`, `onChange`, `listen`, `submitForm`, `getFormData`, & `getInputData` functions.
 

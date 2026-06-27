@@ -6,7 +6,7 @@ pageTitle: Google Analytics
 
 This analytics plugin will load google analytics v.4 into your application.
 
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
+<!-- docs (TOC) collapse=true collapseText='Click to expand' -->
 <details>
 <summary>Click to expand</summary>
 
@@ -22,7 +22,7 @@ This analytics plugin will load google analytics v.4 into your application.
 - [Using GA3 and GA4 together](#using-ga3-and-ga4-together)
 
 </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
+<!-- /docs -->
 
 ## Installation
 
@@ -31,7 +31,7 @@ npm install analytics
 npm install @analytics/google-analytics
 ```
 
-<!-- AUTO-GENERATED-CONTENT:START (PLUGIN_DOCS) -->
+<!-- docs (PLUGIN_DOCS) -->
 
 ## How to use
 
@@ -225,7 +225,7 @@ Below are additional implementation examples.
 
 </details>
 
-<!-- AUTO-GENERATED-CONTENT:END (PLUGIN_DOCS) -->
+<!-- /docs -->
 
 ## Fix "double page views"
 
